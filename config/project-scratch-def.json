@@ -1,0 +1,39 @@
+{
+  "orgName": "SFI ICT Meetings",
+  "edition": "Enterprise",
+  "country": "US",
+  "hasSampleData": false,
+  "language": "en_US",
+  "features": [
+    "EnableSetPasswordInApi",
+    "HealthCloudUser",
+    "Communities",
+    "ContactsToMultipleAccounts",
+    "PersonAccounts",
+    "AnalyticsAdminPerms"
+  ],
+  "settings": {
+    "productSettings": {
+      "enableQuantitySchedule": true,
+      "enableRevenueSchedule": true
+    },
+    "quoteSettings": {
+      "enableQuote": true
+    },
+    "emailAdministrationSettings": {
+      "enableEnhancedEmailEnabled": true
+    },
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
+    },
+    "experienceBundleSettings": {
+      "enableExperienceBundleMetadata": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
