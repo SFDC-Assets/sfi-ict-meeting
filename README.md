@@ -4,8 +4,8 @@ A simple demo for ICT Meetings. See [https://salesforce.quip.com/6hu4A9nxdFNp](h
 
 ## References
 
-Health Cloud
-SFI Insurance (FKA Vlocity Insurance)
+* Health Cloud
+* SFI Insurance (FKA Vlocity Insurance)
 
 ## Configure Your Salesforce DX Project
 
