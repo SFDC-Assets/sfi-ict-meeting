@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Role__c</fullName>
+    <externalId>false</externalId>
+    <label>Role</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Behavioral Health Specialist</fullName>
+                <default>false</default>
+                <label>Behavioral Health Specialist</label>
+            </value>
+            <value>
+                <fullName>Care Manager</fullName>
+                <default>false</default>
+                <label>Care Manager</label>
+            </value>
+            <value>
+                <fullName>Insurance Coordinator</fullName>
+                <default>false</default>
+                <label>Insurance Coordinator</label>
+            </value>
+            <value>
+                <fullName>Lead Care Manager (RN)</fullName>
+                <default>false</default>
+                <label>Lead Care Manager (RN)</label>
+            </value>
+            <value>
+                <fullName>Main Care Giver</fullName>
+                <default>false</default>
+                <label>Main Care Giver</label>
+            </value>
+            <value>
+                <fullName>Patient</fullName>
+                <default>false</default>
+                <label>Patient</label>
+            </value>
+            <value>
+                <fullName>PCP</fullName>
+                <default>false</default>
+                <label>PCP</label>
+            </value>
+            <value>
+                <fullName>Pharmacist</fullName>
+                <default>false</default>
+                <label>Pharmacist</label>
+            </value>
+            <value>
+                <fullName>Social Worker</fullName>
+                <default>false</default>
+                <label>Social Worker</label>
+            </value>
+            <value>
+                <fullName>Caregiver</fullName>
+                <default>false</default>
+                <label>Caregiver</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

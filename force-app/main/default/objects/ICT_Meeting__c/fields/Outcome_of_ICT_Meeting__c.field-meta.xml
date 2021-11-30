@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Outcome_of_ICT_Meeting__c</fullName>
+    <externalId>false</externalId>
+    <inlineHelpText>Select all</inlineHelpText>
+    <label>Outcome of ICT Meeting</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>No changes in Plan of Care</fullName>
+                <default>false</default>
+                <label>No changes in Plan of Care</label>
+            </value>
+            <value>
+                <fullName>Referral to Social Worker</fullName>
+                <default>false</default>
+                <label>Referral to Social Worker</label>
+            </value>
+            <value>
+                <fullName>Referral to Specialist</fullName>
+                <default>false</default>
+                <label>Referral to Specialist</label>
+            </value>
+            <value>
+                <fullName>Referral to Pharmacy team</fullName>
+                <default>false</default>
+                <label>Referral to Pharmacy team</label>
+            </value>
+            <value>
+                <fullName>Referral to Community Health Advocates</fullName>
+                <default>false</default>
+                <label>Referral to Community Health Advocates</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>6</visibleLines>
+</CustomField>
