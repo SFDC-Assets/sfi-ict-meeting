@@ -1,0 +1,16 @@
+projectPath: ./sfi_ict_meetings
+IgnoreDependencies: false
+manifest:
+    - DataRaptor/B2BExpress_ExtractDocumentTemplateSFDC247
+    - DataRaptor/ictMapping
+    - DataRaptor/getCaseTeamMembersICTTurbo
+    - DataRaptor/transformCaseTeamMembers
+    - DataRaptor/insertICTInvitees
+    - DataRaptor/getCurrentCarePlan
+    - DataRaptor/DRUsers
+    - DataRaptor/DRContacts
+    - DataRaptor/GetProviders
+    - DocumentTemplate/ICT Meeting Minutes
+    - IntegrationProcedure/Send Fax From IP
+    - OmniScript/newICTMeeting
+    - VlocityCard/newICTMeeting

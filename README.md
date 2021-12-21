@@ -13,3 +13,9 @@ Setup borrowed:
 
 * [https://github.com/Appirio/Health-Cloud-Sfdx-Template](https://github.com/Appirio/Health-Cloud-Sfdx-Template)
 * [https://github.com/Vchalem/Health-Cloud---ADK](https://github.com/Vchalem/Health-Cloud---ADK)
+
+## Export your Data Pack
+
+```sh
+vlocity -sfdx.username ict-meeting-demo -job sfi_ict_datapack.yaml packExport
+```

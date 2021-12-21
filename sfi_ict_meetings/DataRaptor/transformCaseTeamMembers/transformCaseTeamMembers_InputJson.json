@@ -1,0 +1,47 @@
+{
+    "CaseTeamMembers": [
+        {
+            "Id": "0B65e000000XaFhCAK",
+            "Member": {
+                "Id": "0035e00000BiCxbAAF",
+                "Name": "Susan Zulauf",
+                "attributes": {
+                    "type": "Name",
+                    "url": "/services/data/v53.0/sobjects/Contact/0035e00000BiCxbAAF"
+                }
+            },
+            "MemberId": "0035e00000BiCxbAAF",
+            "TeamRole": {
+                "Id": "0B75e0000000WHfCAM",
+                "Name": "Patient",
+                "attributes": {
+                    "type": "CaseTeamRole",
+                    "url": "/services/data/v53.0/sobjects/CaseTeamRole/0B75e0000000WHfCAM"
+                }
+            },
+            "TeamRoleId": "0B75e0000000WHfCAM"
+        },
+        {
+            "Id": "0B65e000000XaFiCAK",
+            "Member": {
+                "Id": "0055e0000066SepAAE",
+                "Name": "Ben Morrow",
+                "Title": "RN",
+                "attributes": {
+                    "type": "Name",
+                    "url": "/services/data/v53.0/sobjects/User/0055e0000066SepAAE"
+                }
+            },
+            "MemberId": "0055e0000066SepAAE",
+            "TeamRole": {
+                "Id": "0B75e0000000WHcCAM",
+                "Name": "Care Manager",
+                "attributes": {
+                    "type": "CaseTeamRole",
+                    "url": "/services/data/v53.0/sobjects/CaseTeamRole/0B75e0000000WHcCAM"
+                }
+            },
+            "TeamRoleId": "0B75e0000000WHcCAM"
+        }
+    ]
+}

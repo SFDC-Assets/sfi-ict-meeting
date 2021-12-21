@@ -5,6 +5,10 @@
 # Salesforce cache
 .sfdx/
 .localdevserver/
+vlocity-temp/
+VlocityBuildErrors.log
+VLocityBuildLog.yaml
+*.properties
 
 # VSCode settings
 .vscode/

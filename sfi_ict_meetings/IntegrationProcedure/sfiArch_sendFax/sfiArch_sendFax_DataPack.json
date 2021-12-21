@@ -1,0 +1,28 @@
+{
+    "%vlocity_namespace%__CustomJavaScript__c": "{}",
+    "%vlocity_namespace%__DisableMetadataCache__c": false,
+    "%vlocity_namespace%__ElementTypeToHTMLTemplateList__c": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "%vlocity_namespace%__Element__c": [
+        "sfiArch_sendFax_Element_GetDocBodyBase64.json",
+        "sfiArch_sendFax_Element_ClickSendUploadBody.json",
+        "sfiArch_sendFax_Element_UploadDoc.json",
+        "sfiArch_sendFax_Element_ClickSendBody.json",
+        "sfiArch_sendFax_Element_SetValues4.json",
+        "sfiArch_sendFax_Element_SendFax.json",
+        "sfiArch_sendFax_Element_ResponseAction1.json"
+    ],
+    "%vlocity_namespace%__IsLwcEnabled__c": false,
+    "%vlocity_namespace%__IsProcedure__c": true,
+    "%vlocity_namespace%__IsReusable__c": false,
+    "%vlocity_namespace%__IsTest__c": false,
+    "%vlocity_namespace%__Language__c": "Procedure",
+    "%vlocity_namespace%__OmniProcessType__c": "Integration Procedure",
+    "%vlocity_namespace%__ProcedureKey__c": "sfiArch_sendFax",
+    "%vlocity_namespace%__PropertySet__c": "sfiArch_sendFax_PropertySet.json",
+    "%vlocity_namespace%__SubType__c": "sendFax",
+    "%vlocity_namespace%__Type__c": "sfiArch",
+    "Name": "Send Fax From IP",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__OmniScript__c/sfiArch/sendFax/Procedure"
+}

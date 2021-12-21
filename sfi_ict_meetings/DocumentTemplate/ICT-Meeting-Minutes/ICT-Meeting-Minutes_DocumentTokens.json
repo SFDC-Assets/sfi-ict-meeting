@@ -1,0 +1,546 @@
+[
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "",
+        "%vlocity_namespace%__TokenSymbol__c": "09b38a9f-6405-7128-e636-b57f5cd99734",
+        "Name": "IF_CareGaps",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/09b38a9f-6405-7128-e636-b57f5cd99734"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "",
+        "%vlocity_namespace%__TokenSymbol__c": "0d0d4558-8653-e2e1-c28d-d71977ce86e0",
+        "Name": "AccountName",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/0d0d4558-8653-e2e1-c28d-d71977ce86e0"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "",
+        "%vlocity_namespace%__TokenSymbol__c": "13d6acf2-aa2f-5d0f-4e51-a8a7b1a28359",
+        "Name": "LastCompletedDate",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/13d6acf2-aa2f-5d0f-4e51-a8a7b1a28359"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "",
+        "%vlocity_namespace%__TokenSymbol__c": "202734d2-5826-5dec-3367-133e6922bf6c",
+        "Name": "IF_UTC",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/202734d2-5826-5dec-3367-133e6922bf6c"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "",
+        "%vlocity_namespace%__TokenSymbol__c": "4e00ea54-8f1a-d3b9-0e68-eb8f17d765d2",
+        "Name": "Language",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/4e00ea54-8f1a-d3b9-0e68-eb8f17d765d2"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "",
+        "%vlocity_namespace%__TokenSymbol__c": "4f8ed3c3-8ccd-4890-17ab-0d768c02b268",
+        "Name": "IF_AdvancedDirective",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/4f8ed3c3-8ccd-4890-17ab-0d768c02b268"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "",
+        "%vlocity_namespace%__TokenSymbol__c": "55383cfb-392b-1160-a94c-89f42a92628d",
+        "Name": "FollowUpTimeframe",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/55383cfb-392b-1160-a94c-89f42a92628d"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "",
+        "%vlocity_namespace%__TokenSymbol__c": "5c7ee69b-d5dc-6625-472d-9e7fa66a04fc",
+        "Name": "RiskScore",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/5c7ee69b-d5dc-6625-472d-9e7fa66a04fc"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "",
+        "%vlocity_namespace%__TokenSymbol__c": "5e831791-30ff-40e6-15d3-2ca060f889af",
+        "Name": "IF_Declined",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/5e831791-30ff-40e6-15d3-2ca060f889af"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "",
+        "%vlocity_namespace%__TokenSymbol__c": "734a129c-7f1a-1e7d-e9f3-a71ac8824e5e",
+        "Name": "AddtlComments",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/734a129c-7f1a-1e7d-e9f3-a71ac8824e5e"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "",
+        "%vlocity_namespace%__TokenSymbol__c": "7356608d-bcf8-30e4-a32d-3c13cc78cecd",
+        "Name": "CarePlanStatus",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/7356608d-bcf8-30e4-a32d-3c13cc78cecd"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "",
+        "%vlocity_namespace%__TokenSymbol__c": "8b9386c8-eadb-ce74-48c4-de21c1fdec91",
+        "Name": "RecordsRequestType",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/8b9386c8-eadb-ce74-48c4-de21c1fdec91"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "",
+        "%vlocity_namespace%__TokenSymbol__c": "c958d924-a41a-3861-393c-ec1bacc5c314",
+        "Name": "IF_ISS",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/c958d924-a41a-3861-393c-ec1bacc5c314"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "",
+        "%vlocity_namespace%__TokenSymbol__c": "d24adcc2-81ef-f95a-efa8-2800c32f5b35",
+        "Name": "IF_RecordsRequest",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/d24adcc2-81ef-f95a-efa8-2800c32f5b35"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "",
+        "%vlocity_namespace%__TokenSymbol__c": "f57d90da-9f8f-2b7a-1d09-1570e9fb0598",
+        "Name": "IF_EducationMats",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/f57d90da-9f8f-2b7a-1d09-1570e9fb0598"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "",
+        "%vlocity_namespace%__TokenSymbol__c": "f62ac2ea-2601-f92e-915a-82eded773955",
+        "Name": "IF_SocialServices",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/f62ac2ea-2601-f92e-915a-82eded773955"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "",
+        "%vlocity_namespace%__TokenSymbol__c": "fe76e730-4396-7ace-cf7c-920bffe72f83",
+        "Name": "PCPName",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/fe76e730-4396-7ace-cf7c-920bffe72f83"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "Barriers",
+        "%vlocity_namespace%__TokenSymbol__c": "6c64909e-b717-fbeb-d05a-939653c19506",
+        "Name": "Name",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/6c64909e-b717-fbeb-d05a-939653c19506"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "CarePlanTasks",
+        "%vlocity_namespace%__TokenSymbol__c": "09b51819-1046-4a78-6a64-39564579c569",
+        "Name": "Goal",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/09b51819-1046-4a78-6a64-39564579c569"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "CarePlanTasks",
+        "%vlocity_namespace%__TokenSymbol__c": "37531874-6816-9873-ae00-208e36a58907",
+        "Name": "DueDate",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/37531874-6816-9873-ae00-208e36a58907"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "CarePlanTasks",
+        "%vlocity_namespace%__TokenSymbol__c": "c9a532c7-460e-4c61-e5da-a1e84a8f5cc0",
+        "Name": "Subject",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/c9a532c7-460e-4c61-e5da-a1e84a8f5cc0"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "CarePlanTasks",
+        "%vlocity_namespace%__TokenSymbol__c": "f8120ef2-03e4-3b37-a5fa-ba774972ff44",
+        "Name": "Status",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/f8120ef2-03e4-3b37-a5fa-ba774972ff44"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "Diagnoses",
+        "%vlocity_namespace%__TokenSymbol__c": "2b82051f-67cb-6499-fb25-290ef208baf4",
+        "Name": "DxName",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/2b82051f-67cb-6499-fb25-290ef208baf4"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "Invitees",
+        "%vlocity_namespace%__TokenSymbol__c": "6b50ef18-d7e8-060b-c8eb-91a1888efe80",
+        "Name": "Name",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/6b50ef18-d7e8-060b-c8eb-91a1888efe80"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "Invitees",
+        "%vlocity_namespace%__TokenSymbol__c": "a0751121-5f17-32a8-af5b-0393f202ed63",
+        "Name": "Role",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/a0751121-5f17-32a8-af5b-0393f202ed63"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "Labs",
+        "%vlocity_namespace%__TokenSymbol__c": "778779a6-a58d-e737-bc3b-5378e7f2b2da",
+        "Name": "Result_Indicator",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/778779a6-a58d-e737-bc3b-5378e7f2b2da"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "Labs",
+        "%vlocity_namespace%__TokenSymbol__c": "919b6951-01e7-ed80-0fa1-c6a12720ce17",
+        "Name": "Name",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/919b6951-01e7-ed80-0fa1-c6a12720ce17"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "Labs",
+        "%vlocity_namespace%__TokenSymbol__c": "b5cab461-95c2-1c70-c377-50b7c59b8def",
+        "Name": "Result",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/b5cab461-95c2-1c70-c377-50b7c59b8def"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "Labs",
+        "%vlocity_namespace%__TokenSymbol__c": "fa32327a-7d7a-432a-78a2-bd20642f4da1",
+        "Name": "DOS",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/fa32327a-7d7a-432a-78a2-bd20642f4da1"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "Medications",
+        "%vlocity_namespace%__TokenSymbol__c": "319a1b6a-d242-b68b-82ca-3c0859679846",
+        "Name": "Frequency",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/319a1b6a-d242-b68b-82ca-3c0859679846"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "Medications",
+        "%vlocity_namespace%__TokenSymbol__c": "b2050e8c-fb48-315f-8b95-3728c1df829e",
+        "Name": "Name",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/b2050e8c-fb48-315f-8b95-3728c1df829e"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "addBarrier",
+        "%vlocity_namespace%__TokenSymbol__c": "3c07917f-dd52-efe7-3eb9-c77dd6b5b37c",
+        "Name": "Name",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/3c07917f-dd52-efe7-3eb9-c77dd6b5b37c"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "attendees",
+        "%vlocity_namespace%__TokenSymbol__c": "c1ad0971-9760-febf-5de6-657e447f3daf",
+        "Name": "Role",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/c1ad0971-9760-febf-5de6-657e447f3daf"
+    },
+    {
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DocumentTemplateId__c": {
+            "%vlocity_namespace%__ExternalID__c": "ICT Meeting Minutes/1/Blue Shield of California/1636117960740",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__DocumentTemplate__c/ICT Meeting Minutes",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentTemplate__c"
+        },
+        "%vlocity_namespace%__TokenDataType__c": "Text",
+        "%vlocity_namespace%__TokenPath__c": "attendees",
+        "%vlocity_namespace%__TokenSymbol__c": "fce1b692-70aa-b75a-5300-e2f6a2a9e499",
+        "Name": "Name",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DocumentToken__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DocumentToken__c/fce1b692-70aa-b75a-5300-e2f6a2a9e499"
+    }
+]

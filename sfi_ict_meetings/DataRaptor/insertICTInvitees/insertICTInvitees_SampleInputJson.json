@@ -1,0 +1,192 @@
+{
+    "Account": {
+        "Id": "0015e00000Cr2h5AAB"
+    },
+    "CaseTeamMembers": [
+        {
+            "Id": "0B65e0000000s4rCAA",
+            "Member": {
+                "Id": "0035e000009iGSMAA2",
+                "Name": "Charles Green",
+                "attributes": {
+                    "type": "Name",
+                    "url": "/services/data/v53.0/sobjects/Contact/0035e000009iGSMAA2"
+                }
+            },
+            "MemberId": "0035e000009iGSMAA2",
+            "TeamRole": {
+                "Id": "0B75e0000000WHfCAM",
+                "Name": "Patient",
+                "attributes": {
+                    "type": "CaseTeamRole",
+                    "url": "/services/data/v53.0/sobjects/CaseTeamRole/0B75e0000000WHfCAM"
+                }
+            },
+            "TeamRoleId": "0B75e0000000WHfCAM"
+        },
+        {
+            "Id": "0B65e0000000s4sCAA",
+            "Member": {
+                "Id": "0055e000004j19KAAQ",
+                "Name": "Melinda Smith (Care Coordinator)",
+                "attributes": {
+                    "type": "Name",
+                    "url": "/services/data/v53.0/sobjects/User/0055e000004j19KAAQ"
+                }
+            },
+            "MemberId": "0055e000004j19KAAQ",
+            "TeamRole": {
+                "Id": "0B75e0000000WHcCAM",
+                "Name": "Care Manager",
+                "attributes": {
+                    "type": "CaseTeamRole",
+                    "url": "/services/data/v53.0/sobjects/CaseTeamRole/0B75e0000000WHcCAM"
+                }
+            },
+            "TeamRoleId": "0B75e0000000WHcCAM"
+        },
+        {
+            "Id": "0B65e000000fxr1CAA",
+            "Member": {
+                "Id": "0055e0000066SepAAE",
+                "Name": "Ben Morrow",
+                "Title": "RN",
+                "attributes": {
+                    "type": "Name",
+                    "url": "/services/data/v53.0/sobjects/User/0055e0000066SepAAE"
+                }
+            },
+            "MemberId": "0055e0000066SepAAE",
+            "TeamRole": {
+                "Id": "0B75e0000000WHcCAM",
+                "Name": "Care Manager",
+                "attributes": {
+                    "type": "CaseTeamRole",
+                    "url": "/services/data/v53.0/sobjects/CaseTeamRole/0B75e0000000WHcCAM"
+                }
+            },
+            "TeamRoleId": "0B75e0000000WHcCAM"
+        },
+        {
+            "Id": "0B65e000000XaM4CAK",
+            "Member": {
+                "Id": "0055e0000068XAlAAM",
+                "Name": "Deb Mitchum",
+                "attributes": {
+                    "type": "Name",
+                    "url": "/services/data/v53.0/sobjects/User/0055e0000068XAlAAM"
+                }
+            },
+            "MemberId": "0055e0000068XAlAAM",
+            "TeamRole": {
+                "Id": "0B75e0000008OWlCAM",
+                "Name": "Pharmacist",
+                "attributes": {
+                    "type": "CaseTeamRole",
+                    "url": "/services/data/v53.0/sobjects/CaseTeamRole/0B75e0000008OWlCAM"
+                }
+            },
+            "TeamRoleId": "0B75e0000008OWlCAM"
+        }
+    ],
+    "CleanMembers": [
+        {
+            "ContactId": "0035e000009iGSMAA2",
+            "Name": "Charles Green",
+            "Role": "Patient"
+        },
+        {
+            "Name": "Melinda Smith (Care Coordinator)",
+            "Role": "Care Manager",
+            "UserId": "0055e000004j19KAAQ"
+        },
+        {
+            "Name": "Ben Morrow",
+            "Role": "Care Manager",
+            "Title": "RN",
+            "UserId": "0055e0000066SepAAE"
+        },
+        {
+            "Name": "Deb Mitchum",
+            "Role": "Pharmacist",
+            "UserId": "0055e0000068XAlAAM"
+        }
+    ],
+    "ContextId": "0015e00000Cr2h5AAB",
+    "CreateNewICTMeeting": {
+        "ICTInvitees": [
+            {
+                "ContactId": "0035e000009iGSMAA2",
+                "Name": "Charles Green",
+                "Role": "Patient"
+            },
+            {
+                "Name": "Melinda Smith (Care Coordinator)",
+                "Role": "Care Manager",
+                "UserId": "0055e000004j19KAAQ"
+            },
+            {
+                "Name": "Deb Mitchum",
+                "Role": "Pharmacist",
+                "UserId": "0055e0000068XAlAAM"
+            }
+        ],
+        "MeetingDateandTime": "2021-11-05T16:00:00.000Z",
+        "newInvitee": [
+            {
+                "Role": "Social Worker",
+                "UserLookup2-Block": {
+                    "Name": "Ben Morrow",
+                    "User": {
+                        "DisplayName": "Ben Morrow",
+                        "Id": "0055e0000066SepAAE",
+                        "Title": "RN"
+                    },
+                    "UserLookup2": "Ben Morrow"
+                },
+                "contactLookup-Block": null,
+                "internalToggle": "Internal"
+            },
+            {
+                "Role": "PCP",
+                "UserLookup2-Block": null,
+                "contactLookup-Block": {
+                    "Contact": {
+                        "Id": "0035e00000DxEFHAA3",
+                        "Name": "Amy Huffman, MD"
+                    },
+                    "Name": "Amy Huffman, MD",
+                    "contactLookup": "Amy Huffman, MD"
+                },
+                "internalToggle": "External"
+            }
+        ]
+    },
+    "CurrentCarePlan": {
+        "AccountId": "0015e00000Cr2h5AAB",
+        "Id": "5005e00000539giAAA",
+        "OwnerId": "0055e000004j19KAAQ"
+    },
+    "myColumns": [
+        {
+            "editable": false,
+            "fieldName": "Name",
+            "label": "Name",
+            "sortable": true,
+            "type": "text"
+        },
+        {
+            "editable": false,
+            "fieldName": "Role",
+            "label": "Role",
+            "sortable": true,
+            "type": "text"
+        }
+    ],
+    "timeStamp": "2021-11-03T13:24:43.942Z",
+    "userCurrencyCode": "USD",
+    "userId": "0055e0000068XAlAAM",
+    "userName": "dm@bscpoc.demo",
+    "userProfile": "System Administrator",
+    "userTimeZone": "-420"
+}

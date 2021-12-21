@@ -1,0 +1,147 @@
+{
+    "dataSource": {
+        "contextVariables": [
+        ],
+        "orderBy": {
+        },
+        "type": null,
+        "value": {
+        }
+    },
+    "enableLwc": true,
+    "events": [
+        {
+            "actionData": {
+                "card": "{card}",
+                "stateAction": {
+                    "eventName": "reload",
+                    "id": "flex-action-1635960568733",
+                    "type": "cardAction"
+                }
+            },
+            "channelname": "newICTMeeting",
+            "displayLabel": "newICTMeeting:data",
+            "element": "action",
+            "eventLabel": "pubsub",
+            "eventname": "data",
+            "eventtype": "pubsub",
+            "key": "event-0",
+            "recordIndex": "0"
+        }
+    ],
+    "isFlex": true,
+    "lwc": {
+        "DeveloperName": "cfNewICTMeeting_2_BSC",
+        "Id": "0Rb5e000002JF3WCAW",
+        "ManageableState": "unmanaged",
+        "MasterLabel": "cfNewICTMeeting_2_BSC",
+        "NamespacePrefix": "c"
+    },
+    "states": [
+        {
+            "actions": [
+            ],
+            "childCards": [
+            ],
+            "components": {
+                "layer-0": {
+                    "children": [
+                        {
+                            "class": "slds-col ",
+                            "element": "action",
+                            "elementLabel": "New ICT Meeting",
+                            "name": "Action",
+                            "property": {
+                                "buttonVariant": "brand",
+                                "card": "{card}",
+                                "contextId": "\\{'Id'}",
+                                "displayAsButton": true,
+                                "hideActionIcon": true,
+                                "reRenderFlyout": true,
+                                "record": "{record}",
+                                "stateAction": {
+                                    "displayName": "New ICT Meeting",
+                                    "flyoutLwc": "b-c-b-s_-c-a-i-c-t-english",
+                                    "flyoutParams": {
+                                        "ContextId": "{Params.id}",
+                                        "vlocEvents": "newICTMeeting"
+                                    },
+                                    "flyoutType": "OmniScripts",
+                                    "hasExtraParams": true,
+                                    "id": "flex-action-1635960509391",
+                                    "layoutType": "lightning",
+                                    "openFlyoutIn": "Modal",
+                                    "openUrlIn": "Current Window",
+                                    "osName": "BCBS_CA/ICT/English",
+                                    "type": "Flyout",
+                                    "vlocityIcon": "standard-default"
+                                },
+                                "stateObj": "{record}"
+                            },
+                            "size": {
+                                "default": "12",
+                                "isResponsive": false
+                            },
+                            "stateIndex": 0,
+                            "styleObject": {
+                                "sizeClass": "slds-size_12-of-12"
+                            },
+                            "type": "element",
+                            "userUpdatedElementLabel": true
+                        }
+                    ]
+                }
+            },
+            "conditions": {
+                "group": [
+                ],
+                "id": "state-condition-object",
+                "isParent": true
+            },
+            "definedActions": {
+                "actions": [
+                ]
+            },
+            "documents": [
+            ],
+            "fields": [
+            ],
+            "isSmartAction": false,
+            "name": "Active",
+            "omniscripts": [
+                {
+                    "language": "English",
+                    "subtype": "ICT",
+                    "type": "BCBS_CA"
+                }
+            ],
+            "smartAction": {
+            },
+            "styleObject": {
+                "class": "slds-card slds-p-around_x-small slds-m-bottom_x-small",
+                "container": {
+                    "class": "slds-card"
+                },
+                "margin": [
+                    {
+                        "size": "x-small",
+                        "type": "bottom"
+                    }
+                ],
+                "padding": [
+                    {
+                        "size": "x-small",
+                        "type": "around"
+                    }
+                ],
+                "size": {
+                    "default": "12",
+                    "isResponsive": false
+                },
+                "sizeClass": "slds-size_12-of-12"
+            }
+        }
+    ],
+    "theme": "slds",
+    "title": "newICTMeeting"
+}

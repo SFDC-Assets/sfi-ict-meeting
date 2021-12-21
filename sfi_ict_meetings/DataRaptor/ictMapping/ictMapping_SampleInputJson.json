@@ -1,0 +1,930 @@
+{
+    "IPResult": {
+        "AccountId": "0015e00000Cr2h5AAB",
+        "AccountName": "Charles Green",
+        "AccountOwner": "0055e000004p5nlAAA",
+        "Age": 70,
+        "AltCity": "Stillwater",
+        "AltPhone": "5754754674",
+        "AltPostalCode": "55082",
+        "AltState": "MN",
+        "AltStreet": "7890 Newberry Court North",
+        "Barriers": [
+            {
+                "Id": "0Vo5e000000L8i6CAC",
+                "Name": "Member is unable to navigate stairs"
+            },
+            {
+                "Id": "0Vo5e000000L8i2CAC",
+                "Name": "Member is unable to navigate stairs"
+            },
+            {
+                "Id": "0Vo5e000000L8iGCAS",
+                "Name": "Living rough"
+            },
+            {
+                "Id": "0Vo5e000000L8i1CAC",
+                "Name": "Member is unable to navigate stairs"
+            },
+            {
+                "Id": "0Vo5e000000L8hSCAS",
+                "Name": "Transportation Inadequate"
+            },
+            {
+                "Id": "0Vo5e000000L8hrCAC",
+                "Name": "Member is unable to navigate stairs"
+            },
+            {
+                "Id": "0Vo5e000000L8hwCAC",
+                "Name": "Member is unable to navigate stairs"
+            },
+            {
+                "Id": "0Vo5e000000L8hmCAC",
+                "Name": "Member is unable to navigate stairs"
+            },
+            {
+                "Id": "0Vo5e000000sgu4CAA",
+                "Name": "Hearing Impairment"
+            },
+            {
+                "Id": "0Vo5e000000sguaCAA",
+                "Name": "Member is unable to navigate stairs"
+            },
+            {
+                "Id": "0Vo5e000000sguoCAA",
+                "Name": "Vision impairment"
+            },
+            {
+                "Id": "0Vo5e000000sgz0CAA",
+                "Name": "Member lives alone"
+            },
+            {
+                "Id": "0Vo5e000000sgz1CAA",
+                "Name": "Member home environment is not safe"
+            },
+            {
+                "Id": "0Vo5e000000L8iBCAS",
+                "Name": "Member is unable to navigate stairs"
+            }
+        ],
+        "BirthDate": "1951-10-08",
+        "CarePlan": {
+            "AccountId": "0015e00000Cr2h5AAB",
+            "ContactId": "0035e000009iGSMAA2",
+            "Id": "5005e00000539giAAA",
+            "OwnerId": "0055e000004j19KAAQ",
+            "Status": "Declined HRA"
+        },
+        "CarePlanTasks": [
+            {
+                "DueDate": "2021-07-14",
+                "Id": "00T5e00000CrrOvEAJ",
+                "Status": "Completed",
+                "Subject": "Call"
+            },
+            {
+                "DueDate": "2021-07-29",
+                "Goal": "Medication information understood",
+                "Id": "00T5e00000E6gc4EAB",
+                "Status": "In Progress",
+                "Subject": "Send reconciled medication list to all providers."
+            },
+            {
+                "DueDate": "2021-07-30",
+                "Goal": "Medication need, use, and management evaluated and problems resolved",
+                "Id": "00T5e00000E7KUbEAN",
+                "Status": "Completed",
+                "Subject": "Information on all medications   :"
+            },
+            {
+                "DueDate": "2021-08-09",
+                "Goal": "Medication information understood",
+                "Id": "00T5e00000FeLecEAF",
+                "Status": "Not Started",
+                "Subject": "Obtain med organizer or reminder tools (eg, pillbox)"
+            },
+            {
+                "DueDate": "2021-08-09",
+                "Goal": "Complementary, alternative, or integrative therapies will support positive...",
+                "Id": "00T5e00000FeLedEAF",
+                "Status": "Completed",
+                "Subject": "Identifying alternative treatments patient may be using"
+            },
+            {
+                "DueDate": "2021-08-09",
+                "Goal": "Medication information understood",
+                "Id": "00T5e00000FeLebEAF",
+                "Status": "Completed",
+                "Subject": "Creation of current and reconciled medication list"
+            },
+            {
+                "DueDate": "2021-08-09",
+                "Goal": "Complementary, alternative, or integrative therapies will support positive...",
+                "Id": "00T5e00000FeLeeEAF",
+                "Status": "Completed",
+                "Subject": "Social worker referral, as needed"
+            },
+            {
+                "DueDate": "2021-08-09",
+                "Goal": "Complementary, alternative, or integrative therapies will support positive...",
+                "Id": "00T5e00000FeLefEAF",
+                "Status": "Completed",
+                "Subject": "Some complementary, alternative, or integrative therapies can interfere with treatment and outcomes."
+            },
+            {
+                "DueDate": "2021-08-10",
+                "Goal": "ACE inhibitor medication initiated and maintained",
+                "Id": "00T5e00000E6gc5EAB",
+                "Status": "Completed",
+                "Subject": "Call provider immediately: Difficulty breathing, fainting, infection signs (eg, fever, sore throat), abnormal bruising or bleeding, difficulty swallowing, hoarseness"
+            },
+            {
+                "DueDate": "2021-08-11",
+                "Id": "00T5e00000Ff5jwEAB",
+                "Status": "Completed",
+                "Subject": "Email: RE: Information we discussed"
+            },
+            {
+                "DueDate": "2021-08-11",
+                "Id": "00T5e00000FetA1EAJ",
+                "Status": "Completed",
+                "Subject": "Email: Information we discussed"
+            },
+            {
+                "DueDate": "2021-08-12",
+                "Goal": "Medications refilled",
+                "Id": "00T5e00000FeLeaEAF",
+                "Status": "Completed",
+                "Subject": "Managing your medicines (Illustrated)"
+            },
+            {
+                "DueDate": "2021-08-13",
+                "Goal": "Member has addressed hearing impairment sufficient to perform activities...",
+                "Id": "00T5e00000FerCgEAJ",
+                "Status": "Not Started",
+                "Subject": "Coordinate visit w/ hearing specialist"
+            },
+            {
+                "DueDate": "2021-08-13",
+                "Goal": "Hypertension self-care plan developed, implemented, and maintained",
+                "Id": "00T5e00000Fg0JpEAJ",
+                "Status": "Completed",
+                "Subject": "Self-care plan creation between patient and provider (eg, goals, management, treating symptoms, getting help)"
+            },
+            {
+                "DueDate": "2021-08-13",
+                "Goal": "Member has addressed hearing impairment sufficient to perform activities...",
+                "Id": "00T5e00000FerChEAJ",
+                "Status": "Completed",
+                "Subject": "Educate the member about activities that can worsen hearing impairment"
+            },
+            {
+                "DueDate": "2021-08-13",
+                "Goal": "Hypertension self-care plan developed, implemented, and maintained",
+                "Id": "00T5e00000Fg0JoEAJ",
+                "Status": "Completed",
+                "Subject": "Appointment scheduling"
+            },
+            {
+                "DueDate": "2021-08-17",
+                "Goal": "Address member pain scale",
+                "Id": "00T5e00000HC2eSEAT",
+                "Status": "Not Started",
+                "Subject": "Educate member re: pain med regimens / side effects"
+            },
+            {
+                "DueDate": "2021-08-17",
+                "Goal": "Address member pain scale",
+                "Id": "00T5e00000HC2eREAT",
+                "Status": "Not Started",
+                "Subject": "Educate member about activities which may worsen pain"
+            },
+            {
+                "DueDate": "2021-08-18",
+                "Goal": "ARB medication initiated and maintained",
+                "Id": "00T5e00000E6gc6EAB",
+                "Status": "Completed",
+                "Subject": "Angiotensin receptor blockers (ARBs)"
+            },
+            {
+                "DueDate": "2021-08-20",
+                "Goal": "Medications refilled",
+                "Id": "00T5e00000FeLeZEAV",
+                "Status": "Completed",
+                "Subject": "Obtaining refills in lieu of an appointment"
+            },
+            {
+                "DueDate": "2021-08-24",
+                "Goal": "Fall risk has been minimized",
+                "Id": "00T5e00000FerCdEAJ",
+                "Status": "Not Started",
+                "Subject": "Coordinate fall prevention plan with care team"
+            },
+            {
+                "DueDate": "2021-08-24",
+                "Goal": "Fall risk has been minimized",
+                "Id": "00T5e00000FerCeEAJ",
+                "Status": "Not Started",
+                "Subject": "Educate member re: fall hazards in home"
+            },
+            {
+                "DueDate": "2021-08-24",
+                "Goal": "Member has addressed hearing impairment sufficient to perform activities...",
+                "Id": "00T5e00000FerCfEAJ",
+                "Status": "Not Started",
+                "Subject": "Coordinate community resources for hearing aids"
+            },
+            {
+                "DueDate": "2021-08-24",
+                "Goal": "Fall risk has been minimized",
+                "Id": "00T5e00000FerCcEAJ",
+                "Status": "Not Started",
+                "Subject": "Assist member in creating a plan for getting help in case of a fall"
+            },
+            {
+                "DueDate": "2021-09-05",
+                "Goal": "Member will receive appropriate preventive care",
+                "Id": "00T5e00000FdhdNEAR",
+                "Status": "Completed",
+                "Subject": "Member will visit PCP at least annually"
+            },
+            {
+                "DueDate": "2021-09-05",
+                "Goal": "Member will receive appropriate preventive care",
+                "Id": "00T5e00000FdhdMEAR",
+                "Status": "Completed",
+                "Subject": "Member will receive annual flu shot"
+            },
+            {
+                "DueDate": "2021-09-05",
+                "Goal": "Member will receive quality, coordinated care",
+                "Id": "00T5e00000FdhdLEAR",
+                "Status": "Completed",
+                "Subject": "Contact Member’s PCP, if known, with any care concerns"
+            },
+            {
+                "DueDate": "2021-09-05",
+                "Goal": "Member will receive quality, coordinated care",
+                "Id": "00T5e00000FdhdJEAR",
+                "Status": "Completed",
+                "Subject": "Conduct member’s ICT meetings at least annually"
+            },
+            {
+                "DueDate": "2021-09-05",
+                "Goal": "Member will receive quality, coordinated care",
+                "Id": "00T5e00000FdhdKEAR",
+                "Status": "Completed",
+                "Subject": "Monitor available data (ADT, claims, etc.) for indications of care concerns"
+            },
+            {
+                "DueDate": "2021-09-05",
+                "Goal": "Member will receive quality, coordinated care",
+                "Id": "00T5e00000FdhdIEAR",
+                "Status": "Completed",
+                "Subject": "Assign member to DSNP outreach campaign for sustained, periodic outreach effort."
+            },
+            {
+                "DueDate": "2021-09-07",
+                "Goal": "Hearing evaluated and self-care understood",
+                "Id": "00T5e00000FeLeYEAV",
+                "Status": "Completed",
+                "Subject": "Communication between care team members and care plan reconciliation"
+            },
+            {
+                "DueDate": "2021-09-10",
+                "Goal": "Hearing evaluated and self-care understood",
+                "Id": "00T5e00000FeLeXEAV",
+                "Status": "Completed",
+                "Subject": "Appointment scheduling for hearing evaluation"
+            },
+            {
+                "Goal": "Advanced Directive will completed as seen by completed form on file with PCP",
+                "Id": "00T5e00000P4jcjEAB",
+                "Status": "Not Started",
+                "Subject": "Plan to send Advance Directive information and document"
+            },
+            {
+                "Goal": "Member will be able to repeat back 2 signs and symptoms of illness",
+                "Id": "00T5e00000P4jckEAB",
+                "Status": "Not Started",
+                "Subject": "Care manager to send health education material"
+            },
+            {
+                "Id": "00T5e00000P4jciEAB",
+                "Status": "New",
+                "Subject": "Follow up 1 month after ICT Meeting"
+            },
+            {
+                "Id": "00T5e00000P4jyZEAR",
+                "Status": "New",
+                "Subject": "Follow up 1 month after ICT Meeting"
+            },
+            {
+                "Goal": "a045e000007xtod",
+                "Id": "00T5e00000P4jyaEAB",
+                "Status": "Not Started"
+            },
+            {
+                "Goal": "Member reports getting needed services",
+                "Id": "00T5e00000P4jq7EAB",
+                "Status": "Not Started",
+                "Subject": "PCP/Case Manager to evaluate need for Social Services"
+            },
+            {
+                "Goal": "Care gaps will be closed as seen by claims",
+                "Id": "00T5e00000P4jq8EAB",
+                "Status": "Not Started",
+                "Subject": "Care manager to discuss care gaps and explain how to close the needed care gap"
+            },
+            {
+                "Goal": "Care manager will have all information needed to assist the member",
+                "Id": "00T5e00000P4jq9EAB",
+                "Status": "Not Started",
+                "Subject": "Coordinate with PCP or hospital to get records"
+            },
+            {
+                "Id": "00T5e00000P4jq6EAB",
+                "Status": "New",
+                "Subject": "Follow up 6 months after ICT Meeting"
+            },
+            {
+                "Goal": "Member reports getting needed services",
+                "Id": "00T5e00000P4jL0EAJ",
+                "Status": "Not Started",
+                "Subject": "PCP/Case Manager to evaluate need for Social Services"
+            },
+            {
+                "Goal": "Care gaps will be closed as seen by claims",
+                "Id": "00T5e00000P4jL1EAJ",
+                "Status": "Not Started",
+                "Subject": "Care manager to discuss care gaps and explain how to close the needed care gap"
+            },
+            {
+                "Goal": "Care manager will have all information needed to assist the member",
+                "Id": "00T5e00000P4jgOEAR",
+                "Status": "Not Started",
+                "Subject": "Coordinate with PCP or hospital to get records"
+            },
+            {
+                "Id": "00T5e00000P4jKzEAJ",
+                "Status": "New",
+                "Subject": "Follow up 6 months after ICT Meeting"
+            },
+            {
+                "Goal": "Care gaps will be closed as seen by claims",
+                "Id": "00T5e00000P4jFQEAZ",
+                "Status": "Not Started",
+                "Subject": "Care manager to discuss care gaps and explain how to close the needed care gap"
+            },
+            {
+                "Goal": "Member will be able to repeat back 2 signs and symptoms of illness",
+                "Id": "00T5e00000P4jFREAZ",
+                "Status": "Not Started",
+                "Subject": "Care manager to send health education material"
+            },
+            {
+                "Goal": "Care manager will have all information needed to assist the member",
+                "Id": "00T5e00000P4jFSEAZ",
+                "Status": "Not Started",
+                "Subject": "Coordinate with PCP or hospital to get records"
+            },
+            {
+                "Id": "00T5e00000P4jFPEAZ",
+                "Status": "New",
+                "Subject": "Follow up 6 months after ICT Meeting"
+            },
+            {
+                "Goal": "Care gaps will be closed as seen by claims",
+                "Id": "00T5e00000P4j9hEAB",
+                "Status": "Not Started",
+                "Subject": "Care manager to discuss care gaps and explain how to close the needed care gap"
+            },
+            {
+                "Goal": "Advanced Directive will completed as seen by completed form on file with PCP",
+                "Id": "00T5e00000P4j9iEAB",
+                "Status": "Not Started",
+                "Subject": "Plan to send Advance Directive information and document"
+            },
+            {
+                "Goal": "Care manager will have all information needed to assist the member",
+                "Id": "00T5e00000P4j9jEAB",
+                "Status": "Not Started",
+                "Subject": "Coordinate with PCP or hospital to get records"
+            },
+            {
+                "Id": "00T5e00000P4j9gEAB",
+                "Status": "New",
+                "Subject": "Follow up 3 months after ICT Meeting"
+            },
+            {
+                "Goal": "Advanced Directive will completed as seen by completed form on file with PCP",
+                "Id": "00T5e00000P4fphEAB",
+                "Status": "Not Started",
+                "Subject": "Plan to send Advance Directive information and document"
+            },
+            {
+                "Goal": "Member will be able to repeat back 2 signs and symptoms of illness",
+                "Id": "00T5e00000P4fpiEAB",
+                "Status": "Not Started",
+                "Subject": "Care manager to send health education material"
+            },
+            {
+                "Goal": "Care manager will have all information needed to assist the member",
+                "Id": "00T5e00000P4fpjEAB",
+                "Status": "Not Started",
+                "Subject": "Coordinate with PCP or hospital to get records"
+            },
+            {
+                "Id": "00T5e00000P4fPUEAZ",
+                "Status": "New",
+                "Subject": "Follow up 1 month after ICT Meeting"
+            },
+            {
+                "Goal": "a045e000007xtlU",
+                "Id": "00T5e00000P4f2IEAR",
+                "Status": "Not Started"
+            },
+            {
+                "Id": "00T5e00000P4f2HEAR",
+                "Status": "New",
+                "Subject": "Follow up 3 months after ICT Meeting"
+            },
+            {
+                "Goal": "a045e000007xtlS",
+                "Id": "00T5e00000P4fdxEAB",
+                "Status": "Not Started"
+            },
+            {
+                "Id": "00T5e00000P4fbHEAR",
+                "Status": "New",
+                "Subject": "Follow up 3 months after ICT Meeting"
+            },
+            {
+                "Goal": "Advanced Directive will completed as seen by completed form on file with PCP",
+                "Id": "00T5e00000P4fbEEAR",
+                "Status": "Not Started",
+                "Subject": "Plan to send Advance Directive information and document"
+            },
+            {
+                "Goal": "Member will be able to repeat back 2 signs and symptoms of illness",
+                "Id": "00T5e00000P4fbFEAR",
+                "Status": "Not Started",
+                "Subject": "Care manager to send health education material"
+            },
+            {
+                "Goal": "Care manager will have all information needed to assist the member",
+                "Id": "00T5e00000P4fbGEAR",
+                "Status": "Not Started",
+                "Subject": "Coordinate with PCP or hospital to get records"
+            },
+            {
+                "Id": "00T5e00000P4fbDEAR",
+                "Status": "New",
+                "Subject": "Follow up 3 months after ICT Meeting"
+            },
+            {
+                "Goal": "Member reports getting needed services",
+                "Id": "00T5e00000P4fTdEAJ",
+                "Status": "Not Started",
+                "Subject": "PCP/Case Manager to evaluate need for Social Services"
+            },
+            {
+                "Goal": "Care gaps will be closed as seen by claims",
+                "Id": "00T5e00000P4fTeEAJ",
+                "Status": "Not Started",
+                "Subject": "Care manager to discuss care gaps and explain how to close the needed care gap"
+            },
+            {
+                "Goal": "Care manager will have all information needed to assist the member",
+                "Id": "00T5e00000P4fTfEAJ",
+                "Status": "Not Started",
+                "Subject": "Coordinate with PCP or hospital to get records"
+            },
+            {
+                "Id": "00T5e00000P4fTcEAJ",
+                "Status": "New",
+                "Subject": "Follow up 3 months after ICT Meeting"
+            },
+            {
+                "Goal": "Member reports getting needed services",
+                "Id": "00T5e00000P4fAfEAJ",
+                "Status": "Not Started",
+                "Subject": "PCP/Case Manager to evaluate need for Social Services"
+            },
+            {
+                "Goal": "Care gaps will be closed as seen by claims",
+                "Id": "00T5e00000P4fAgEAJ",
+                "Status": "Not Started",
+                "Subject": "Care manager to discuss care gaps and explain how to close the needed care gap"
+            },
+            {
+                "Goal": "Care manager will have all information needed to assist the member",
+                "Id": "00T5e00000P4fAhEAJ",
+                "Status": "Not Started",
+                "Subject": "Coordinate with PCP or hospital to get records"
+            },
+            {
+                "Id": "00T5e00000P4fAeEAJ",
+                "Status": "New",
+                "Subject": "Follow up 3 months after ICT Meeting"
+            },
+            {
+                "Goal": "Care gaps will be closed as seen by claims",
+                "Id": "00T5e00000P4etYEAR",
+                "Status": "Not Started",
+                "Subject": "Care manager to discuss care gaps and explain how to close the needed care gap"
+            },
+            {
+                "Goal": "Advanced Directive will completed as seen by completed form on file with PCP",
+                "Id": "00T5e00000P4etZEAR",
+                "Status": "Not Started",
+                "Subject": "Plan to send Advance Directive information and document"
+            },
+            {
+                "Goal": "Care manager will have all information needed to assist the member",
+                "Id": "00T5e00000P4etaEAB",
+                "Status": "Not Started",
+                "Subject": "Coordinate with PCP or hospital to get records"
+            },
+            {
+                "Id": "00T5e00000P4etXEAR",
+                "Status": "New",
+                "Subject": "Follow up 3 months after ICT Meeting"
+            },
+            {
+                "Goal": "Member reports getting needed services",
+                "Id": "00T5e00000P4eg9EAB",
+                "Status": "Not Started",
+                "Subject": "PCP/Case Manager to evaluate need for Social Services"
+            },
+            {
+                "Goal": "Care gaps will be closed as seen by claims",
+                "Id": "00T5e00000P4egAEAR",
+                "Status": "Not Started",
+                "Subject": "Care manager to discuss care gaps and explain how to close the needed care gap"
+            },
+            {
+                "Goal": "Care manager will have all information needed to assist the member",
+                "Id": "00T5e00000P4egBEAR",
+                "Status": "Not Started",
+                "Subject": "Coordinate with PCP or hospital to get records"
+            },
+            {
+                "Id": "00T5e00000P4eg8EAB",
+                "Status": "New",
+                "Subject": "Follow up 3 months after ICT Meeting"
+            },
+            {
+                "Goal": "Test Goal #2",
+                "Id": "00T5e00000CticzEAB",
+                "Status": "Completed",
+                "Subject": "Test Task #2"
+            },
+            {
+                "Goal": "Test Goal",
+                "Id": "00T5e00000CrgetEAB",
+                "Status": "Completed",
+                "Subject": "Test intervention"
+            }
+        ],
+        "Channel": "SMS",
+        "ContactAltAddress": "7890 Newberry Court North Stillwater, MN 55082",
+        "ContactId": "0035e000009iGSMAA2",
+        "ContactMailingAddress": "10000 Santa Monica Boulevard Los Angeles, CA 90067",
+        "ContextId": "a8K5e0000001Ho3EAE",
+        "Diagnoses": {
+            "DxId": "0XN5e000000kJVSGA2",
+            "DxName": "E11.9 - Type 2 diabetes mellitus without complications",
+            "Id": "a8L5e0000002Xg9EAE"
+        },
+        "DocumentICTOutcome": {
+            "AddtlComments": "test",
+            "AdvancedDirective": true,
+            "CareGaps": true,
+            "Declined": false,
+            "EducationMats": true,
+            "FollowUpTimeframe": "1-month",
+            "ISS": true,
+            "MetToReview": null,
+            "Other": null,
+            "OtherOutcome": null,
+            "RecordsRequest": true,
+            "RecordsRequestType": "Labs",
+            "SocialServices": true,
+            "UTC": false,
+            "attendees": [
+                {
+                    "Id": "a8t5e0000009eusAAA",
+                    "Name": "Amy Huffman, MD",
+                    "Role": "PCP"
+                },
+                {
+                    "Id": "a8t5e0000009eutAAA",
+                    "Name": "Charles Green",
+                    "Role": "Patient"
+                }
+            ]
+        },
+        "Email": "cgreen@msn.com",
+        "Fax": "5656556565",
+        "Gender": "Male",
+        "HRAs": {
+            "LastCompletedDate": "--"
+        },
+        "ICTMeeting": {
+            "Id": "a8K5e0000001Ho3EAE",
+            "Member__c": "0015e00000Cr2h5AAB"
+        },
+        "IPA": "California Independent Practice",
+        "Invitees": [
+            {
+                "Id": "a8t5e0000009eusAAA",
+                "Name": "Amy Huffman, MD",
+                "Role": "PCP"
+            },
+            {
+                "Id": "a8t5e0000009eutAAA",
+                "Name": "Charles Green",
+                "Role": "Patient"
+            },
+            {
+                "Id": "a8t5e0000009euuAAA",
+                "Name": "Ben Morrow",
+                "Role": "Care Manager",
+                "Title": "RN"
+            },
+            {
+                "Id": "a8t5e0000009euvAAA",
+                "Name": "Deb Mitchum",
+                "Role": "Pharmacist"
+            }
+        ],
+        "Labs": {
+            "DOS": "2020-07-14",
+            "Id": "a8I5e000000edI3EAI",
+            "Name": "HA1C",
+            "Result": "8.5",
+            "Result_Indicator": "High"
+        },
+        "Language": "English",
+        "ListMerge": [
+            {
+                "goalName": "Member reports getting needed services",
+                "problemName": "Member has need for in home support services",
+                "taskRecordType": "0125e000001c3uZAAQ",
+                "taskSubject": "PCP/Case Manager to evaluate need for Social Services"
+            },
+            {
+                "goalName": "Member reports getting needed services",
+                "problemName": "Member has need for Social Worker services",
+                "taskRecordType": "0125e000001c3uZAAQ",
+                "taskSubject": "PCP/Case Manager to evaluate need for Social Services"
+            },
+            {
+                "goalName": "Care gaps will be closed as seen by claims",
+                "problemName": "Member has identified Care gaps",
+                "taskRecordType": "0125e000001c3uZAAQ",
+                "taskSubject": "Care manager to discuss care gaps and explain how to close the needed care gap"
+            },
+            {
+                "goalName": "Advanced Directive will completed as seen by completed form on file with PCP",
+                "problemName": "Member does not have an Advance Directive, wants to complete one",
+                "taskRecordType": "0125e000001c3uZAAQ",
+                "taskSubject": "Plan to send Advance Directive information and document"
+            },
+            {
+                "goalName": "Member will be able to repeat back 2 signs and symptoms of illness",
+                "problemName": "Member needs more information on the illness that was identified",
+                "taskRecordType": "0125e000001c3uZAAQ",
+                "taskSubject": "Care manager to send health education material"
+            },
+            {
+                "goalName": "Care manager will have all information needed to assist the member",
+                "problemName": "More information needed to help with members issues",
+                "taskRecordType": "0125e000001c3uZAAQ",
+                "taskSubject": "Coordinate with PCP or hospital to get records"
+            }
+        ],
+        "ListMergeStatus": true,
+        "MailingCity": "Los Angeles",
+        "MailingCountry": "United States",
+        "MailingPostalCode": "90067",
+        "MailingState": "CA",
+        "MailingStreet": "10000 Santa Monica Boulevard",
+        "Medications": [
+            {
+                "Frequency": "Daily",
+                "Id": "0ju5e000000fxUCAAY",
+                "MedicationId": "0it5e000000wlujAAA",
+                "Name": "Amlodipine 10 MG / HCTZ 12.5 MG / Olmesartan medoxomil 40 MG Oral Tablet [Tribenzor]"
+            },
+            {
+                "Frequency": "Twice Daily",
+                "Id": "0ju5e000000fxU2AAI",
+                "MedicationId": "0it5e000000wluZAAQ",
+                "Name": "Cozaar 100 MG Oral Tablet"
+            },
+            {
+                "Frequency": "Daily;As Needed",
+                "Id": "0ju5e000000fxUHAAY",
+                "MedicationId": "0it5e000000wluoAAA",
+                "Name": "furosemide 40 MG Oral Tablet"
+            },
+            {
+                "Frequency": "Daily",
+                "Id": "0ju5e000000fxVFAAY",
+                "MedicationId": "0it5e000000wlvDAAQ",
+                "Name": "citalopram 20 MG (as citalopram HBr 24.99 MG) Oral Tablet"
+            }
+        ],
+        "MemberId": "987-654321",
+        "OptumPID": "0014V00001sc3sMQAQ1613003931493",
+        "PCPName": "Dr. John Bosworth",
+        "PersonContactId": "0035e000009iGSMAA2",
+        "Phone": "7547475474",
+        "RaceEthnicity": "White or Caucasian",
+        "ResponseAction1Status": true,
+        "RiskScore": 8,
+        "Time": "Evening",
+        "attendeeColumns": [
+            {
+                "editable": false,
+                "fieldName": "Name",
+                "label": "Name",
+                "sortable": true,
+                "type": "text"
+            },
+            {
+                "editable": false,
+                "fieldName": "Role",
+                "label": "Role",
+                "sortable": true,
+                "type": "text"
+            }
+        ],
+        "barrierColumns": [
+            {
+                "editable": false,
+                "fieldName": "Name",
+                "label": "Barrier",
+                "sortable": true,
+                "type": "text"
+            }
+        ],
+        "diagnosisColumns": [
+            {
+                "editable": false,
+                "fieldName": "DxName",
+                "label": "Diagnosis Name",
+                "sortable": true,
+                "type": "text"
+            }
+        ],
+        "documentTitle": null,
+        "icpColumns": [
+            {
+                "editable": false,
+                "fieldName": "Subject",
+                "label": "Intervention",
+                "sortable": true,
+                "type": "text"
+            },
+            {
+                "editable": false,
+                "fieldName": "DueDate",
+                "label": "Due Date",
+                "sortable": true,
+                "type": "date"
+            },
+            {
+                "editable": false,
+                "fieldName": "Goal",
+                "label": "Goal",
+                "sortable": true,
+                "type": "text"
+            },
+            {
+                "editable": false,
+                "fieldName": "Status",
+                "label": "Status",
+                "sortable": true,
+                "type": "text"
+            }
+        ],
+        "labColumns": [
+            {
+                "editable": false,
+                "fieldName": "Name",
+                "label": "Name",
+                "sortable": true,
+                "type": "text"
+            },
+            {
+                "editable": false,
+                "fieldName": "DOS",
+                "label": "Date of Service",
+                "sortable": true,
+                "type": "date"
+            },
+            {
+                "editable": false,
+                "fieldName": "Result",
+                "label": "Result",
+                "sortable": true,
+                "type": "text"
+            },
+            {
+                "editable": false,
+                "fieldName": "Result_Indicator",
+                "label": "Result Indicator",
+                "sortable": true,
+                "type": "text"
+            }
+        ],
+        "medicationColumns": [
+            {
+                "editable": false,
+                "fieldName": "Name",
+                "label": "Name",
+                "sortable": true,
+                "type": "text"
+            },
+            {
+                "editable": false,
+                "fieldName": "Frequency",
+                "label": "Frequency",
+                "sortable": true,
+                "type": "text"
+            }
+        ],
+        "options": {
+            "chainable": false,
+            "ignoreCache": false,
+            "postTransformBundle": "",
+            "preTransformBundle": "",
+            "useContinuation": false,
+            "useFuture": false,
+            "useQueueableApexRemoting": false,
+            "vlcClass": "%vlocity_namespace%.IntegrationProcedureService"
+        },
+        "response": {
+        },
+        "selectedTemplate": null,
+        "setAdvancedDirective": [
+            {
+                "goalName": "Advanced Directive will completed as seen by completed form on file with PCP",
+                "problemName": "Member does not have an Advance Directive, wants to complete one",
+                "taskRecordType": "0125e000001c3uZAAQ",
+                "taskSubject": "Plan to send Advance Directive information and document"
+            }
+        ],
+        "setCareGaps": [
+            {
+                "goalName": "Care gaps will be closed as seen by claims",
+                "problemName": "Member has identified Care gaps",
+                "taskRecordType": "0125e000001c3uZAAQ",
+                "taskSubject": "Care manager to discuss care gaps and explain how to close the needed care gap"
+            }
+        ],
+        "setEducationMats": [
+            {
+                "goalName": "Member will be able to repeat back 2 signs and symptoms of illness",
+                "problemName": "Member needs more information on the illness that was identified",
+                "taskRecordType": "0125e000001c3uZAAQ",
+                "taskSubject": "Care manager to send health education material"
+            }
+        ],
+        "setISS": [
+            {
+                "goalName": "Member reports getting needed services",
+                "problemName": "Member has need for in home support services",
+                "taskRecordType": "0125e000001c3uZAAQ",
+                "taskSubject": "PCP/Case Manager to evaluate need for Social Services"
+            }
+        ],
+        "setRecordsRequest": [
+            {
+                "goalName": "Care manager will have all information needed to assist the member",
+                "problemName": "More information needed to help with members issues",
+                "taskRecordType": "0125e000001c3uZAAQ",
+                "taskSubject": "Coordinate with PCP or hospital to get records"
+            }
+        ],
+        "setSocialServices": [
+            {
+                "goalName": "Member reports getting needed services",
+                "problemName": "Member has need for Social Worker services",
+                "taskRecordType": "0125e000001c3uZAAQ",
+                "taskSubject": "PCP/Case Manager to evaluate need for Social Services"
+            }
+        ],
+        "timeStamp": "2021-11-05T17:59:19.083Z",
+        "useTemplateDRExtract": null,
+        "userCurrencyCode": "USD",
+        "userId": "0055e000004p5nlAAA",
+        "userName": "wweissman-xtsg@force.com",
+        "userProfile": "System Administrator",
+        "userTimeZone": "-420"
+    },
+    "error": "OK"
+}

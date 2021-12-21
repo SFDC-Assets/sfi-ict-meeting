@@ -1,9 +1,11 @@
 # Create the demo org
-sfdx shane:org:create -f config/project-scratch-def.json -d 1 -s --wait 60 --userprefix sfi -o hlsinsurance.demo
+echo "Create the Demo Org"
+sfdx shane:org:create -f config/project-scratch-def.json -d 7 -s --wait 60 --userprefix sfi -o hlsinsurance.demo
 
 ############################
 ### Health Cloud Package ###
 ############################
+echo "Heath Cloud Package Install"
 hcStartTime=$SECONDS
 
 # Install Health Cloud
@@ -20,6 +22,7 @@ echo "Health Cloud install time ${hcInstallTime}"
 #################################
 ### Vlocity Insurance Package ###
 #################################
+echo "Vlocity Insurance Package Install"
 viStartTime=$SECONDS
 
 # Install Vlocity Insurance
@@ -33,7 +36,8 @@ echo "Vlocity Insurance install time ${viInstallTime}"
 #################################
 
 # Push the metadata into the new scratch org.
-sfdx force:source:push
+# special case: some health cloud metadata settings are inherantly in conflict, force them to be accepted
+sfdx force:source:push -f
 
 # Set the default password.
 sfdx shane:user:password:set -g User -l User -p salesforce1
@@ -56,6 +60,13 @@ sfdx force:user:permset:assign -n ICT_Meetings
 
 # Prep work
 sfdx force:apex:execute -f scripts/apex/enable-person-account-record-type.apex
+
+# vlocity setup
+sfdx force:user:display | grep "Username" | cut -d' ' -f7 | sed "s/.*/sfdx.username = &/" > sfi_build_target.properties
+vlocity -propertyfile sfi_build_target.properties -job sfi_ict_datapack.yaml cleanOrgData
+
+# vlocity deployment
+vlocity packDeploy -propertyfile sfi_build_target.properties -job sfi_ict_datapack.yaml
 
 # Open the org.
 sfdx force:org:open
